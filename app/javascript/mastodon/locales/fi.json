@@ -474,7 +474,6 @@
   "notification.follow_request": "{name} on pyytänyt lupaa saada seurata sinua",
   "notification.mention": "{name} mainitsi sinut",
   "notification.moderation-warning.learn_more": "Lue lisää",
-  "notification.moderation_warning": "Olet saanut moderointivaroituksen",
   "notification.moderation_warning.action_delete_statuses": "Jotkin julkaisusi on poistettu.",
   "notification.moderation_warning.action_disable": "Tilisi on poistettu käytöstä.",
   "notification.moderation_warning.action_mark_statuses_as_sensitive": "Jotkin julkaisusi on merkitty arkaluonteisiksi.",

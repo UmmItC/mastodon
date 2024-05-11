@@ -474,7 +474,6 @@
   "notification.follow_request": "Uživatel {name} požádal o povolení vás sledovat",
   "notification.mention": "Uživatel {name} vás zmínil",
   "notification.moderation-warning.learn_more": "Zjistit více",
-  "notification.moderation_warning": "Obdrželi jste moderační varování",
   "notification.moderation_warning.action_delete_statuses": "Některé z vašich příspěvků byly odstraněny.",
   "notification.moderation_warning.action_disable": "Váš účet je zablokován.",
   "notification.moderation_warning.action_mark_statuses_as_sensitive": "Některé z vašich příspěvků byly označeny jako citlivé.",
